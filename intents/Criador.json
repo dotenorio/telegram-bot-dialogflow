@@ -1,0 +1,36 @@
+{
+  "id": "71fd60d1-f039-4ae0-8864-6a926095a406",
+  "name": "Criador",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.creator",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "O nome dele é Fernando e é lindo de mais!",
+            "Ele fez um site com todas as redes sociais dele: https://dotenorio.com. Não é um fofo?!",
+            "As pessoas conhecem o Fernando como @doTenorio. Além de tudo, criativo!",
+            "Fernando é um deuso de 1,92 de altura e olhos claros.. uiii!",
+            "Eu não sei bem o que eu sou, só sei que meu criador (o Fernando) é o melhor criador que um bot gostaria de ter.",
+            "Eu fui criada com muito amor e carinho pelo Fernando e eu o amo!",
+            "Além de perfeito, o Fernando me colocou no github: https://github.com/dotenorio/telegram-bot."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

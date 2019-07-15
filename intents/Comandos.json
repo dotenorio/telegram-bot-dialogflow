@@ -1,0 +1,40 @@
+{
+  "id": "926f174e-2bfb-4e17-9e31-44ad43f3e137",
+  "name": "Comandos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.commands",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "faf93126-403f-4adb-a6e1-19bb33cba9fd",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "- Eu posso te contar uma piada \u0027boa\u0027. Escreva `piada` no chat!\n- Você pode me perguntar o que eu acho de você.\n- Ou me pergunte sobre meu criador."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

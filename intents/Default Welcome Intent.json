@@ -1,0 +1,45 @@
+{
+  "id": "792a7ffd-6e98-477b-a75c-d648dfc349eb",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Olá! Eu sou o doTenorio BOT e estou aqui para te ajudar!",
+            "Oie, que bom que você veio. Eu sou o doTenorio BOT e estou aqui para te ajudar!",
+            "Oi! Eu sou o doTenorio BOT, divirta-se!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Digite `comandos` para ver do que eu sou capaz.",
+            "Digite `ajuda` no chat para ver os comandos disponíveis.",
+            "Para começar digite \u0027comandos\u0027 no chat."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "9e25aa32-1e68-4061-a390-0f08a55d9566",
+    "data": [
+      {
+        "text": "ajuda",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "00a7e25d-a7a6-44e6-9064-96fc896c92a6",
+    "data": [
+      {
+        "text": "comando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "05b3269d-fb32-4f25-9a7b-200d7722d000",
+    "data": [
+      {
+        "text": "comandos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "790f7e28-5380-41fd-ab5f-746995fc1728",
+    "data": [
+      {
+        "text": "do que você é capaz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f24e90e-132f-48dc-a167-63f689ac4925",
+    "data": [
+      {
+        "text": "ajude",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b76d8880-9e99-4214-ab5f-a439a133c09b",
+    "data": [
+      {
+        "text": "me ajude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05409601-058a-4707-a296-dbb6a58f9714",
+    "data": [
+      {
+        "text": "me ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f7e5e76-2a58-4989-b8fb-2270aa86be05",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdcdf292-18de-4a98-9b83-c88d42f8d812",
+    "data": [
+      {
+        "text": "Pode me ajudar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb5e53fe-7187-4e6c-b9a5-3a67078277eb",
+    "data": [
+      {
+        "text": "O que você faz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4602398-7e6e-4dc4-aca7-48d0404ac09e",
+    "data": [
+      {
+        "text": "Comand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

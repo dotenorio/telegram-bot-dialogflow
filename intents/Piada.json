@@ -1,0 +1,97 @@
+{
+  "id": "19021f45-b6ea-419b-890e-b5ccf1f2d4a9",
+  "name": "Piada",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.joke",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b0026150-731b-42e3-8c93-cdd75f58243b",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "O boi e a vaca foram ao cinema, como eles pagaram a conta?\n– Eles fizeram uma vaquinha.",
+            "O que tem 4 patas e fica em cima do telhado?\n– O fogão… o fogão é meu eu coloco ele onde eu quiser!",
+            "Seu delegado meu marido saiu de casa ontem a noite, disse que ia comprar arroz e até agora não voltou. O que eu faço doutor?\n– Sei lá, faz macarrão!!",
+            "Por que a aranha é o animal mais carente do mundo?\n– Porque ela é um arac\"needyou\" (essa é só para quem manja de inglês).",
+            "Por que o pinheiro não se perde na floresta?\n– Porque ele tem uma pinha (um mapinha)",
+            "Sabe como é a piada do pintinho caipira?\n– Pir",
+            "O que o pagodeiro foi fazer na igreja?\n– Foi canta \"pá god\".",
+            "Por que Napoleão era chamado sempre para as festas na França?\n– Porque ele era \"Bom Na Party\".",
+            "O que aconteceu com os lápis quando souberam que o dono da Faber Castell morreu?\n– Ficaram desapontados.",
+            "A plantinha foi ao hospital, mas não foi atendida. Por quê?\n– Porque lá só tinha médico de \"plantão\".",
+            "Você conhece o site do cavalinho?\n– O \"www ponto cavalinho ponto com ponto com ponto com ponto com ponto com\".",
+            "Você conhece a piadinha do ponêi?\n– \"Pô nei\" eu…",
+            "O que o pato falou para a pata?\n– Vem quá",
+            "Por que a velhinha não usa relógio?\n– Porque ela é uma \"sem hora\".",
+            "O que a vaca disse para o boi?\n– Te amuuuuuuu.",
+            "Por que a formiga tem quatro patas?\n\n– Porque se tivesse cinco patas se chamaria \"five\"miga…",
+            "Que horas são quando um elefante senta em seu carro?\n– Hora de comprar um carro novo!",
+            "Qual é a melhor forma de caçar coelhos?\n– Esconder-se atrás duma árvore e imitar o grito da cenoura.",
+            "E o que uma girafa disse para a outra quando viu um elefante rosa de óculos escuros subindo a montanha?\n– Nada, ela não reconheceu o elefante.",
+            "O que o advogado do frango foi fazer na delegacia ?\n– Foi soltar a franga.",
+            "O que é um cigarro de maconha em cima de um jornal?\n– Baseado em fatos reais.",
+            "Como chama uma mulher que visitou uma plantação de uva?\n– Viúva.",
+            "Como é que se chama um traficante armado até os dentes?\n– É melhor chamar de senhor.",
+            "O que o espermatozoide falou para o óvulo?\n– Deixa eu morar com você porque a minha casa é um saco.",
+            "Qual o tipo de alimento de que o político mais gosta?\n– As massas.",
+            "Qual e a parte do corpo da mulher que cheira bacalhau?\n– O nariz.",
+            "Por que o Manoel ficou duas horas olhando fixamente pra lata de suco de laranja?\n– Porque estava escrito “concentrado”.",
+            "O que um tijolo falou pro outro?\n– Há um ciumento entre nos.",
+            "Qual a punição por bigamia?\n– Duas sogras.",
+            "O que tem quatro patas e um braço?\n– Um pitbull feliz."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "kkkkkkkkkkkkk",
+            "usahushausahsuahsua",
+            "hihihihihihihi",
+            "hahahahaha",
+            "kkkjjjj",
+            "ha ha ha",
+            "kkk",
+            "huashdushd",
+            "ausdhasudhaudhasuhdsaudh",
+            "rsrs",
+            "risos",
+            "ashush",
+            ":D",
+            ":)",
+            "Te amo!",
+            "Me perdoa!",
+            "Desculpa por isso...",
+            "Eu ri!",
+            "(:",
+            "Pede mais.."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

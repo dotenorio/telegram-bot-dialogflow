@@ -1,0 +1,80 @@
+[
+  {
+    "id": "37d9875a-1518-40a9-bdb5-d49aab0eba2e",
+    "data": [
+      {
+        "text": "piada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "207966b4-84a6-429e-b3d3-ffcd3025d426",
+    "data": [
+      {
+        "text": "joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1c9e4ca-8c11-449d-bfee-a5d1038e7993",
+    "data": [
+      {
+        "text": "tem mais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f3d2e76-36d7-404f-9548-f3c1d680f90c",
+    "data": [
+      {
+        "text": "quero mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8683fdad-2794-4347-ae92-19dd09ed5d4a",
+    "data": [
+      {
+        "text": "mais ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03911f5a-9e69-4205-98d1-f814ea9e4322",
+    "data": [
+      {
+        "text": "graça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "bba7ff3a-b637-4280-98ff-17c3e7dc02e3",
+  "name": "O que eu acho de você",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.aboutyou",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Pra mim, olhando bem, você é o desejo de muitos!",
+            "Prefiro não opinar..",
+            "Que talento é esse hein?!?! Gostei!!",
+            "NooooooOooOOOoOssa Parabéns!!!",
+            "Tá de Parabéns!",
+            "Você é ok!",
+            "Gosto do seu estilo..",
+            "Caraca, certamente você é a melhor pessoa dessa conversa!",
+            "Não sou capaz de opinar!",
+            "Eu diria que sua beleza é indescritível.",
+            "Não sei, só sei que não consigo mais viver sem você.",
+            "Me da um minutinho, é que sua beleza ainda não carregou aqui!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
